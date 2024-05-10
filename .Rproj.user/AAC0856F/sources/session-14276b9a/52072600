@@ -1,0 +1,28 @@
+{
+    "id": "52072600",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1715333536148.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "7445994ae96146e4a222727af9bf9598",
+        "name": "verif",
+        "title": "verif",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 93874372021432,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1715333536148,
+    "read_only": false,
+    "read_only_alternatives": []
+}
